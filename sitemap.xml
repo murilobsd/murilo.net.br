@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://murilo.net.br/coding/06_05_2018_20_14_48/</loc>
+    <lastmod>2018-06-05T20:14:48-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://murilo.net.br/training/06_04_2018_22_40_50/</loc>
+    <lastmod>2018-06-04T22:40:50-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://murilo.net.br/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://murilo.net.br/coding/</loc>
+    <lastmod>2018-06-05T20:14:48-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13,7 +29,14 @@
   </url>
   
   <url>
+    <loc>https://murilo.net.br/training/</loc>
+    <lastmod>2018-06-04T22:40:50-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://murilo.net.br/</loc>
+    <lastmod>2018-06-05T20:14:48-03:00</lastmod>
     <priority>0</priority>
   </url>
   
